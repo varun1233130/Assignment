@@ -1,0 +1,25 @@
+.center{
+border: 1cap;
+text-align: center;
+border: 2;
+}
+.container{
+    background-color:burlywood;
+    border-style: double;
+    box-shadow: 5cap;
+
+    margin-left :390px;
+    margin-right: 390px;
+    padding-bottom: 19px;
+    padding-top: 19px;
+}
+#submit{
+    background-color: green;
+    }
+    
+    #ResetForm{
+        background-color: red;
+        }
+        body{
+            background-color: black(129, 112, 144, 0.144);
+        }
